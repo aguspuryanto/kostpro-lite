@@ -1,0 +1,7 @@
+{
+  "name": "KostPro - Management System",
+  "description": "A comprehensive boarding house management system with real-time analytics, automated billing, and financial reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
